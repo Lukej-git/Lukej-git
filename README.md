@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukej-git
 - 👀 I’m interested in living my best life
-- 🌱 I’m currently learning bash
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on learning journeys
 
 <!---
